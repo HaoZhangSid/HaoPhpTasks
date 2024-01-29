@@ -1,0 +1,13 @@
+/* Header Styles */
+body {
+    margin: 0;
+}
+/*
+ * Custom CSS
+ */
+
+ :root {
+    --bs-body-bg: var(--bs-gray-100);
+  }
+
+  

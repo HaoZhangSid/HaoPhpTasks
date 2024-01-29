@@ -6,9 +6,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercise 1: Getting Started with PHP - Hao Zhang</title>
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </head>
 <body>
+<?php include 'header.php'; ?>
+
 <h3>3.1 Write PHP code to output the following message: 
     Hello world! My name is "David"
 </h3>
@@ -65,8 +69,8 @@ Number (S.n.), Name, and Grade, and it should look like this:
 
 <h3>3.4 Take a screenshot that confirms your development environment setup and include it as an image in the "ex1.php" file.</h3>
 
-<img src="./img/docker.png" alt="web development environment"/>
-
+<img src="./img/docker.png" alt="web development enviroment" width="800" height="200"> 
+<?php include 'footer.php'; ?>
 
 </body>
 </html>
