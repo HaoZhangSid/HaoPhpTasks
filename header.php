@@ -25,26 +25,26 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/ex1.php">Exercise1</a>
+          <a class="nav-link active" aria-current="page" href="./ex1.php">Exercise1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/ex2.php">Exercise2</a>
+          <a class="nav-link" href="./ex2.php">Exercise2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/ex3.php">Exercise3</a>
+          <a class="nav-link" href="./ex3.php">Exercise3</a>
         </li>
         <!-- Add additional exercises as needed -->
         <li class="nav-item">
-          <a class="nav-link" href="/ex4.php">Exercise4</a>
+          <a class="nav-link" href="./ex4.php">Exercise4</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/ex5.php">Exercise5</a>
+          <a class="nav-link" href="./ex5.php">Exercise5</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/ex6.php">Exercise6</a>
+          <a class="nav-link" href="./ex6.php">Exercise6</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/ex7.php">Exercise7</a>
+          <a class="nav-link" href="./ex7.php">Exercise7</a>
         </li>
       </ul>
     </div>
@@ -55,14 +55,14 @@
     <div class="col-sm-3" style="background-color: rgba(228, 235, 194, 0.353);">
   <h3>List of Exercises</h3>
   <ul>
-    <li><a href="/ex1.php" style="color: black;">Exercise1</a></li>
-    <li><a href="/ex2.php" style="color: black;">Exercise2</a></li>
-    <li><a href="/ex3.php" style="color: black;">Exercise3</a></li>
+    <li><a href="./ex1.php" style="color: black;">Exercise1</a></li>
+    <li><a href="./ex2.php" style="color: black;">Exercise2</a></li>
+    <li><a href="./ex3.php" style="color: black;">Exercise3</a></li>
     <!-- Add additional exercises as needed -->
-    <li><a href="/ex4.php" style="color: black;">Exercise4</a></li>
-    <li><a href="/ex5.php" style="color: black;">Exercise5</a></li>
-    <li><a href="/ex6.php" style="color: black;">Exercise6</a></li>
-    <li><a href="/ex7.php" style="color: black;">Exercise7</a></li>
+    <li><a href="./ex4.php" style="color: black;">Exercise4</a></li>
+    <li><a href="./ex5.php" style="color: black;">Exercise5</a></li>
+    <li><a href="./ex6.php" style="color: black;">Exercise6</a></li>
+    <li><a href="./ex7.php" style="color: black;">Exercise7</a></li>
   </ul>
 </div>
 
