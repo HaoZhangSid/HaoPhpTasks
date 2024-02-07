@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercise 4: Control Flow and Loops - Hao Zhang</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="./style.css">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-</head>
-<body>
 <?php include 'header.php'; ?>
 <h2>Input Your Information Below:</h2>
 <form name="form1" method="post" action="process.php">
@@ -45,6 +34,3 @@
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
 </form>
 <?php include 'footer.php'; ?>
-
-</body>
-</html>
